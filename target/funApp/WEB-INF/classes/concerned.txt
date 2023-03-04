@@ -1,0 +1,2 @@
+definitions=worried, troubled, or anxious.
+notes=

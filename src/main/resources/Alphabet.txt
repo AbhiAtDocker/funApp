@@ -1,0 +1,2 @@
+definitions=a set of letters or symbols in a fixed order used to represent the basic set of speech sounds of a language, especially the set of letters from A to Z.
+notes=The origin of the alphabet goes back to the Phoenician system of the 2nd millennium BC, from which the modern Hebrew and Arabic systems are ultimately derived. The Greek alphabet, which emerged in 1000–900 BC, developed two branches, Cyrillic (which became the script of Russian) and Etruscan (from which derives the Roman alphabet used in the West).

@@ -1,0 +1,2 @@
+definitions=hostile behaviour; unfriendliness or opposition.
+notes=

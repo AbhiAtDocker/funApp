@@ -1,0 +1,2 @@
+definitions=grimly mocking or cynical.
+notes=

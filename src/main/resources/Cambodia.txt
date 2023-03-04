@@ -1,0 +1,2 @@
+definitions=a country in SE Asia between Thailand and southern Vietnam; population 15,600,000 (estimated 2015); official language, Khmer; capital, Phnom Penh..
+notes=The country was made a French protectorate in 1863 and remained under French influence until it became fully independent in 1953. During the Vietnam War it was bombed and invaded by US forces, and then, following a civil war (1970–5), came under the control of the Khmer Rouge; more than 2 million Cambodians died before the regime was toppled by a Vietnamese invasion in 1979.
