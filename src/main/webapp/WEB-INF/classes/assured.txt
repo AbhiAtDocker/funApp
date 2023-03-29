@@ -1,0 +1,2 @@
+definitions=confident;protected against discontinuance or change.
+notes=

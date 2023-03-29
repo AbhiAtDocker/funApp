@@ -1,0 +1,2 @@
+definitions=a single distinct meaningful element of speech or writing, used with others (or sometimes alone) to form a sentence and typically shown with a space on either side when written or printed;a command, password, or signal;one's account of the truth, especially when it differs from that of another person;the text or spoken part of a play, opera, or other performed piece; a script;a basic unit of data in a computer, typically 16 or 32 bits long.;express (something spoken or written) in particular words;used to express agreement or affirmation.
+notes=

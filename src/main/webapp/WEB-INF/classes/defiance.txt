@@ -1,0 +1,2 @@
+definitions=open resistance; bold disobedience.
+notes=

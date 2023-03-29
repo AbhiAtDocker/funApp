@@ -1,0 +1,2 @@
+definitions=fearful; frightened.
+notes=

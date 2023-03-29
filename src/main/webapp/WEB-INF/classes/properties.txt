@@ -1,0 +1,14 @@
+boundaries:All=def
+#####C o u n t r i e s###########################
+countries:All=def
+countries:Asia=def
+countries:Australia and Oceania=def
+countries:Europe=def
+countries:Middle East, North Africa, and Greater Arabia=def
+countries:Central America and the Caribbean=def
+countries:North America=def
+countries:South America=def
+countries:Sub-Saharan Africa=def
+##########################################
+#########Feelings/Emotions###############
+feelings:All=def

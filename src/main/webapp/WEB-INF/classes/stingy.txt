@@ -1,0 +1,2 @@
+definitions=mean; ungenerous.
+notes=
